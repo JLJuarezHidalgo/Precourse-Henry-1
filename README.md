@@ -1,2 +1,2 @@
-# Precourse-Henry-1
-Este es un repositorio de prueba del Precourse de Henry
+Prueba de como crear un repositorio y clonarlo desde githut a nuestra computadora
+
